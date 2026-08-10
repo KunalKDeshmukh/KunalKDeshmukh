@@ -43,27 +43,40 @@ Programming & Development: Java, C++, Python, JavaScript, TypeScript, Advanced J
 Web & Backend: HTML5, CSS3, React.js, Spring Framework, Spring Boot, Spring Security, Hibernate/JPA, REST APIs, Microservices
 Database & CS Fundamentals: DBMS, MySQL, Data Structures & Algorithms, Operating Systems, Computer Networks, Software Engineering, Software Testing
 DevOps & Cloud: Linux, Git & GitHub, Docker, CI/CD, Cloud Computing, DevOps Fundamentals
+
+
 Red Hat Certified System Administrator (RHCSA)
 Linux system administration, user & group management, file & storage management, LVM, networking, SSH, SELinux, Firewalld, process/service management, package management, shell scripting, system monitoring, and troubleshooting.
 ---
+
+
 🚀 Featured Projects
+
 🛍️ LookGlass — AI-Powered Fashion Store
+
 A full-stack fashion platform combining e-commerce with AI-powered personalization.
 Key Features: AI-powered outfit recommendations, vision-based fashion analysis, personalized recommendations, virtual wardrobe, wishlist, user authentication, e-commerce functionality, responsive interface
 Tech Stack: React.js, TypeScript (frontend) · Node.js, Express.js (backend) · AI vision/API integration
 Repository: github.com/KunalKDeshmukh
+
 🍽️ CanteenHub — Smart Canteen Management System
+
 A full-stack canteen management platform that modernizes traditional food-service operations.
 Key Features: JWT-based authentication, digital food menu, cart & ordering, order and vendor management, admin dashboard with analytics, complaint and payment management, ratings & feedback, notifications, responsive UI
 Tech Stack: React.js, Vite, Redux Toolkit, Bootstrap (frontend) · Java, Spring Boot, Spring Security (backend) · MySQL with Hibernate/JPA · REST APIs, JWT
 Repository: github.com/KunalKDeshmukh
+
+
 🧠 AI Project Explainer
+
 An AI-powered developer tool that helps developers understand unfamiliar codebases. Users upload a ZIP file containing a software project, and the application analyzes its structure and generates an AI-powered explanation of its architecture and components.
 Key Features: ZIP project upload, project structure analysis, AI-generated explanations of architecture and component relationships
 Tech Stack: Python, Flask (backend) · Claude API (AI)
 Why I built it: Understanding a large existing codebase can be difficult, especially for students, new developers, and developers joining an existing project. This tool speeds up codebase exploration by providing an AI-generated overview of a project's structure, components, and functionality.
 ---
+
 🌱 Currently Exploring
+
 ![AWS Cloud Architecture](https://img.shields.io/badge/-AWS%20Cloud%20Architecture-FF9900?style=flat-square&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logoColor=white)
 ![CI/CD & DevOps](https://img.shields.io/badge/-CI%2FCD%20%26%20DevOps-2C5263?style=flat-square&logoColor=white)
@@ -73,7 +86,9 @@ Why I built it: Understanding a large existing codebase can be difficult, especi
 ![Distributed Systems](https://img.shields.io/badge/-Distributed%20Systems-0891B2?style=flat-square&logoColor=white)
 ![Advanced DSA](https://img.shields.io/badge/-Advanced%20DSA-16A34A?style=flat-square&logoColor=white)
 ---
+
 💼 Open To
+
 ![Software Engineer](https://img.shields.io/badge/-Software%20Engineer-1E3A8A?style=flat-square&logoColor=white)
 ![Java Developer](https://img.shields.io/badge/-Java%20Developer-ED8B00?style=flat-square&logoColor=white)
 ![Full Stack Developer](https://img.shields.io/badge/-Full%20Stack%20Developer-2563EB?style=flat-square&logoColor=white)
@@ -83,7 +98,9 @@ Why I built it: Understanding a large existing codebase can be difficult, especi
 ![Open Source](https://img.shields.io/badge/-Open%20Source-334155?style=flat-square&logoColor=white)
 ![Collaborations](https://img.shields.io/badge/-Developer%20Collaborations-BE185D?style=flat-square&logoColor=white)
 ---
+
 📫 Let's Connect
+
 <p align="center">
   <a href="mailto:1015kunaldeshmukh@gmail.com">
     <img src="https://img.shields.io/badge/Email-1015kunaldeshmukh%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
