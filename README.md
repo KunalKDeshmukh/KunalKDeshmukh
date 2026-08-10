@@ -9,14 +9,15 @@ Cloud & DevOps	AWS, Microsoft Azure, Google Cloud Platform, Docker, Kubernetes, 
 AI & Automation	Claude API, AI-Powered Application Development, API Integration, Flask, Automation
 <p> <img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,nodejs,express,python,fastapi,typescript,javascript,mysql,postgres,mongodb,redis,docker,kubernetes,aws,azure,gcp,linux,git,github,githubactions,nginx,kafka" /> </p>
 👋 About Me
-🎓 Post Graduate Diploma in Advanced Computing, with industry-oriented training in software development
-💻 Build full-stack web and mobile applications — from database design and backend APIs to polished user interfaces
-☕ Strong focus on Java, Spring Boot, REST APIs, React.js, and MySQL
-🤖 Focused on integrating AI APIs, including the Claude API, into practical, production-grade products
-🐧 Red Hat Certified System Administrator (RHCSA) with hands-on Linux administration experience
-☁️ Actively expanding expertise in cloud computing, DevOps, containerization, and system design
-🚚 Growing interest in logistics technology and AI-powered developer tooling
-📚 Continuously sharpening Data Structures & Algorithms and problem-solving skills
+	
+🎓 Education	Post Graduate Diploma in Advanced Computing — industry-oriented software development training
+💻 What I Build	Full-stack web & mobile apps — from database design and backend APIs to polished UIs
+☕ Core Focus	Java, Spring Boot, REST APIs, React.js, MySQL
+🤖 AI Focus	Integrating AI APIs, including Claude API, into production-grade products
+🐧 Certification	Red Hat Certified System Administrator (RHCSA) — hands-on Linux administration
+☁️ Growth Areas	Cloud computing, DevOps, containerization, system design
+🚚 Emerging Interests	Logistics technology, AI-powered developer tooling
+📚 Always Sharpening	Data Structures & Algorithms, problem-solving
 🎓 Education & Certifications
 
 Post Graduate Diploma in Advanced Computing Industry-oriented training covering:
@@ -61,11 +62,11 @@ Why I built it: Understanding a large existing codebase can be difficult, especi
 
 🌱 Currently Exploring
 
-AWS & Cloud Architecture · Kubernetes · CI/CD & DevOps · System Design · Generative AI · Application Security · Distributed Systems · Advanced DSA
+Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image
 
 💼 Open To
 
-Software Engineer roles · Java Developer roles · Full-Stack Developer roles · Backend Developer roles · Cloud & DevOps opportunities · AI application development · Open source contributions · Developer collaborations
+Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image
 
 📫 Let's Connect
-<p align="center"> <a href="mailto:1015kunaldeshmukh@gmail.com"> <img src="https://img.shields.io/badge/Email-1015kunaldeshmukh%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a> <a href="https://www.linkedin.com/in/kunal-deshmukh-78371b3a1/"> <img src="https://img.shields.io/badge/LinkedIn-Kunal%20Deshmukh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="https://github.com/KunalKDeshmukh"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> </a> </p> <p align="center"><em>"Code is not just about writing software — it's about turning ideas into solutions that create real-world impact."</em></p>
+<p align="center"> <a href="mailto:1015kunaldeshmukh@gmail.com"> <img src="https://img.shields.io/badge/Email-1015kunaldeshmukh%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a> <a href="https://www.linkedin.com/in/kunal-deshmukh-78371b3a1/"> <img src="https://img.shields.io/badge/LinkedIn-Kunal%20Deshmukh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="https://github.com/KunalKDeshmukh"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> </a> </p> <p align="center"> <img src="https://img.shields.io/badge/-Turning%20ideas%20into%20real--world%20impact%2C%20one%20line%20of%20code%20at%20a%20time-000000?style=for-the-badge"> </p>
