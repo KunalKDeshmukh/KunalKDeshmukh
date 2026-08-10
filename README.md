@@ -1,4 +1,10 @@
-# 💫 About Me:
+# 💫 About Me:👋 Hi, I'm Kunal Deshmukh
+
+<h3 align="center">💻 Full-Stack Developer | Java Developer | AI & Cloud Enthusiast</h3>
+
+<p align="center"> Building modern, scalable applications that solve real-world problems. </p>
+
+<p align="center"> <a href="https://github.com/KunalKDeshmukh"> <img src="https://img.shields.io/badge/GitHub-KunalKDeshmukh-181717?style=for-the-badge&logo=github"> </a> </p>
 🎓Graduate with industry-oriented training in software development<br>💻 Build full-stack web and mobile applications, from database design and backend APIs to polished user interfaces<br>☕ Strong focus on Java, Spring Boot, REST APIs, React.js, and MySQL<br>🤖 Interested in integrating AI APIs such as Claude API into practical, real-world products<br>🐧 Red Hat Certified System Administrator (RHCSA) with hands-on Linux administration knowledge<br>☁️ Exploring Cloud Computing, DevOps, Docker, CI/CD, and System Design<br>🚚 Expanding my work into logistics technology and AI-powered developer tools<br>📚 Continuously improving Data Structures & Algorithms and problem-solving<br>🔭 Passionate about turning ideas into production-ready software
 
 
