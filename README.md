@@ -48,9 +48,6 @@ A full-stack React + TypeScript fashion platform with AI vision-based outfit rec
 #### 🍽️ [CanteenHub](https://github.com/KunalKDeshmukh)
 A full-stack canteen management system (Spring Boot + React/Vite + MySQL) with menu management, and role-based registration/profile management for users, admins, and vendors.
 
-#### 🚚 [Rajendra Transport Company](https://github.com/KunalKDeshmukh)
-A real-world website and Android/iOS app for a logistics company based in Chhatrapati Sambhajinagar, Maharashtra — functionally modeled on industry leaders with a distinct visual identity.
-
 #### 🧠 AI Project Explainer
 A Flask application that lets users upload a zipped codebase and get an AI-generated explanation of the project, powered by the Claude API.
 
